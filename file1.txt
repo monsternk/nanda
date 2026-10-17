@@ -1,0 +1,4 @@
+this is my git lab practyicegit config --list
+its a new world
+my name is nanda
+welcome
